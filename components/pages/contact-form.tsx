@@ -1,5 +1,12 @@
 "use client"
+
 import Script from 'next/script'
+
+declare global {
+  interface Window {
+    Tally: any;
+  }
+}
 
 export default function ContactForm() {
 
@@ -12,7 +19,9 @@ export default function ContactForm() {
         src="https://tally.so/widgets/embed.js"
 
         onLoad={() => {
-          Tally.loadEmbeds();
+          if (typeof window.Tally !== 'undefined') {
+            window.Tally.loadEmbeds();
+          }
         }}
       />
     </>
