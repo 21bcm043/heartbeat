@@ -27,7 +27,7 @@ export default function HeroHeader() {
         >
           Register Now!!!
         </Link></Button>
-
+        <p className="font-light text-sm text-slate-300">{"Scroll Down👇 for Guidelines"}</p>
       </div>
       <div className="flex flex-1 justify-center lg:justify-end">
         <VideoPlayer src="/heartbeat_vid.mp4" height={"240"} width={"640"} />
