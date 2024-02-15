@@ -8,7 +8,7 @@ import { SiteConfig, ContactConfig } from "@/types"
 const baseUrl = "https://nextlanding.rdev.pro"
 
 export const siteConfig: SiteConfig = {
-  name: "PSG College of Arts and Science",
+  name: "PSG College of Arts & Science",
   author: "Sree Narayanan",
   description:
     "PSGCAS | Heartbeat 2k24",
