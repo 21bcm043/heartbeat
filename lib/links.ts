@@ -11,4 +11,8 @@ export const navLinks = [
     route: "Register",
     path: "/register",
   },
+  {
+    route: "Contact Us",
+    path: "/contact",
+  },
 ]
