@@ -5,6 +5,7 @@ import Navbar from "@/components/layout/navbar"
 import Footer from "@/components/layout/footer"
 import { ThemeProvider } from "@/components/theme-provider"
 import { settings } from "@/config/settings"
+import { Analytics } from '@vercel/analytics/react';
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -43,6 +44,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <body
         className={`${inter.className} flex min-h-screen flex-col bg-background text-primary`}
       >
+        <Analytics />
         {settings.themeToggleEnabled ? (
           <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
             <Navbar />
