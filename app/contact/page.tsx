@@ -14,14 +14,6 @@ export default function Contact() {
             </div>
             <br />
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-                {/* Secretary */}
-                <div className="flex flex-col items-center space-y-2 text-center">
-                    <HeadingText subtext="Contact the Secretary for further queries">
-                        Secretary
-                    </HeadingText>
-                    <p>Charukesh R - 8072911538</p>
-                    <p>Deepika S - 8608990170</p>
-                </div>
                 {/* Chairperson */}
                 <div className="flex flex-col items-center space-y-2 text-center">
                     <HeadingText subtext="Contact the Chairperson for further queries">
@@ -29,6 +21,14 @@ export default function Contact() {
                     </HeadingText>
                     <p>Dhanush G - 9791467241</p>
                     <p>Nivashikaa K - 9789278192</p>
+                </div>
+                {/* Secretary */}
+                <div className="flex flex-col items-center space-y-2 text-center">
+                    <HeadingText subtext="Contact the Secretary for further queries">
+                        Secretary
+                    </HeadingText>
+                    <p>Charukesh R - 8072911538</p>
+                    <p>Deepika S - 8608990170</p>
                 </div>
                 {/* Joint Secretary */}
                 <div className="flex flex-col items-center space-y-2 text-center">
