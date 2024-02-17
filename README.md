@@ -5,6 +5,11 @@ This is the website developed by Sreenarayanan Sreekanth for Heartbeat Event
 - [Live Preview](https://psgcas-heartbeat.vercel.app/)
 
 
+### My Profiles
+
+LinkedIn - [Sree Narayanan](https://in.linkedin.com/in/sreenington)
+Github (Personal) - [eersnington](https://github.com/eersnington)
+
 ### Install dependencies
 
 ```bash
