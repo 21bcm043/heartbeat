@@ -1,38 +1,9 @@
-# Next Landing
+# PSG College of Arts & Science | Heartbeat 2k24 Website
 
-Easy to setup, customizable, quick, and responsive landing page starter built with [Next.js](https://nextjs.org) and [shadcn/ui](https://ui.shadcn.com).
+This is the website developed by Sreenarayanan Sreekanth for Heartbeat Event
 
-- [Live Preview](https://nextlanding.rdev.pro)
+- [Live Preview](https://psgcas-heartbeat.vercel.app/)
 
-## Preview
-
-![Next Landing Preview](public/og.jpg)
-
-## Getting Started
-
-Follow the instructions based on the package manager you use (npm/pnpm)
-
-### Start by setting up a new project
-
-```bash
-npx degit redpangilinan/next-shadcn-landing my-app
-```
-
-```bash
-pnpm dlx degit redpangilinan/next-shadcn-landing my-app
-```
-
-### Change package.json name
-
-```json
-"name": "next-shadcn-landing",
-```
-
-to
-
-```json
-"name": "my-app",
-```
 
 ### Install dependencies
 
@@ -48,10 +19,6 @@ pnpm install
 
 ```bash
 npm run dev
-```
-
-```bash
-pnpm run dev
 ```
 
 ### That's it
