@@ -11,10 +11,6 @@ This is the website developed by Sreenarayanan Sreekanth for Heartbeat Event
 npm install
 ```
 
-```bash
-pnpm install
-```
-
 ### Run the newly created app
 
 ```bash
