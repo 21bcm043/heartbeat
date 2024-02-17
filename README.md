@@ -1,6 +1,6 @@
 # PSG College of Arts & Science | Heartbeat 2k24 Website
 
-This is the website developed by Sreenarayanan Sreekanth for Heartbeat Event
+This is the website developed by Sreenarayanan Sreekanth (21BCM043) for Heartbeat Event
 
 - [Live Preview](https://psgcas-heartbeat.vercel.app/)
 
