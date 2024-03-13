@@ -1,4 +1,4 @@
-import Hero from "@/components/pages/hero"
+#mport Hero from "@/components/pages/hero"
 import FeatureCards from "@/components/pages/feature-cards"
 
 export default function Home() {
